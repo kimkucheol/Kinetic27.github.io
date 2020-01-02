@@ -203,6 +203,10 @@ img.thumbnail {
 .article .content {
   font-size: 1.1rem;
 }
+.article .content img {
+  display: block;
+  margin: 0 auto;
+}
 .article .content blockquote.pullquote {
   float: right;
   max-width: 50%;
